@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Spoken Hindi Basics",
+        "slug": "spoken-hindi-basics",
+        "description": "Start speaking Hindi with confidence through this beginner-friendly course covering daily conversations.",
+        "price": 99.99,
+        "instructor": "Ravi Kumar",
+        "isFeatured": true,
+        "image": "/courses/hindi.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Spoken Bengali for Beginners",
+        "slug": "spoken-bengali-for-beginners",
+        "description": "Learn the essentials of Bengali with a focus on speaking, listening, and cultural context.",
+        "price": 109.99,
+        "instructor": "Anwesha Chatterjee",
+        "isFeatured": false,
+        "image": "/courses/bengali.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Tamil Language Foundations",
+        "slug": "tamil-language-foundations",
+        "description": "Build a strong foundation in Tamil, one of the oldest living languages of India, with this structured course.",
+        "price": 119.99,
+        "instructor": "Karthik Subramanian",
+        "isFeatured": true,
+        "image": "/courses/tamil.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Learn Punjabi Conversation",
+        "slug": "learn-punjabi-conversation",
+        "description": "Develop fluency in Punjabi for everyday conversations, greetings, and cultural expressions.",
+        "price": 129.99,
+        "instructor": "Simran Kaur",
+        "isFeatured": false,
+        "image": "/courses/punjabi.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Telugu for Everyday Life",
+        "slug": "telugu-for-everyday-life",
+        "description": "Learn Telugu basics for travel, relationships, and business communication in Andhra Pradesh and Telangana.",
+        "price": 139.99,
+        "instructor": "Ramesh Babu",
+        "isFeatured": false,
+        "image": "/courses/telugu.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Marathi Language Essentials",
+        "slug": "marathi-language-essentials",
+        "description": "Get introduced to Marathi language and culture through practical conversation modules.",
+        "price": 149.99,
+        "instructor": "Priya Joshi",
+        "isFeatured": true,
+        "image": "/courses/marathi.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Urdu Poetry & Conversation",
+        "slug": "urdu-poetry-and-conversation",
+        "description": "Dive into the elegance of Urdu with this course focusing on conversational fluency and poetry appreciation.",
+        "price": 159.99,
+        "instructor": "Aamir Khan",
+        "isFeatured": false,
+        "image": "/courses/urdu.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Gujarati for Beginners",
+        "slug": "gujarati-for-beginners",
+        "description": "Learn the fundamentals of Gujarati through real-life scenarios and cultural immersion.",
+        "price": 169.99,
+        "instructor": "Neha Patel",
+        "isFeatured": true,
+        "image": "/courses/gujarati.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Malayalam Made Easy",
+        "slug": "malayalam-made-easy",
+        "description": "Understand and speak Malayalam, the classical Dravidian language of Kerala, with ease.",
+        "price": 179.99,
+        "instructor": "Anjali Nair",
+        "isFeatured": false,
+        "image": "/courses/malayalam.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Sanskrit Foundations",
+        "slug": "sanskrit-foundations",
+        "description": "Discover the basics of Sanskrit, the root of many Indian languages, with an emphasis on speaking and chanting.",
+        "price": 189.99,
+        "instructor": "Arvind Sharma",
+        "isFeatured": true,
+        "image": "/courses/sanskrit.jpg"
+      }
+    ]
+  }
+  
