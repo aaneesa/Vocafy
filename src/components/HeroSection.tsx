@@ -8,8 +8,8 @@ function HeroSection() {
       className="h-auto md:h-[40rem] w-full rounded-md flex flex-col items-center justify-center relative overflow-hidden mx-auto py-10 md:py-0"
     >
       <Spotlight
-        className="-top-40 left-0 md:left-60 md:-top-20"
-        fill="white"
+        className="-top-40 left-50 md:left-60 md:-top-20"
+        fill="red"
       />
       <div className="p-4 relative z-10 w-full text-center">
         <h1
@@ -27,12 +27,14 @@ function HeroSection() {
         </p>
         <div className="mt-4">
           <Link href={"/courses"}>
-            <Button
-              borderRadius="1.75rem"
-              className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"
-            >
-              Explore Courses
-            </Button>
+          <div className="mt-4 flex justify-center">
+          <Button
+                    borderRadius="1.75rem"
+                    className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"
+                    >
+                    Begin Your Journey
+          </Button>
+</div>
           </Link>
         </div>
       </div>
