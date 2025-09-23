@@ -16,14 +16,12 @@ interface Course {
 }
 
 function FeaturedCourses() {
-  // limit to 3 featured courses
   const featuredCourses = courseData.courses
     .filter((course: Course) => course.isFeatured)
     .slice(0, 3)
 
   return (
     <div className="py-16 bg-neutral-950">
-      {/* Section Header */}
       <div className="text-center space-y-4 md:space-y-6">
             <h2 className="text-sm md:text-base text-red-400 font-semibold tracking-wider uppercase">
                 Featured Courses
@@ -35,9 +33,6 @@ function FeaturedCourses() {
                 Explore our most popular courses handpicked to help you start your journey.
             </p>
             </div>
-
-
-      {/* Cards */}
       <div className="mt-12 mx-6">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 justify-center">
           {featuredCourses.map((course: Course) => (
@@ -56,8 +51,6 @@ function FeaturedCourses() {
           ))}
         </div>
       </div>
-
-      {/* View All */}
       <div className="mt-16 text-center">
         <Link href={"/courses"}>
           <Button
