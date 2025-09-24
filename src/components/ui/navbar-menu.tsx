@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import { motion, type Transition } from "framer-motion";
-
+import type { LinkProps } from "next/link";
 import Link from "next/link";
 import Image from "next/image";
 
@@ -111,7 +111,10 @@ export const ProductItem = ({
   );
 };
 
-export const HoveredLink = ({ children, ...rest }: any) => {
+export const HoveredLink = ({
+  children,
+  ...rest
+}: LinkProps & React.AnchorHTMLAttributes<HTMLAnchorElement>) => {
   return (
     <Link
       {...rest}
