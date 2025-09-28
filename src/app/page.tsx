@@ -1,6 +1,9 @@
 import FeaturedCourses from "@/components/FeaturedCourses";
 import HeroSection from "@/components/HeroSection";
+import Testimonials from "@/components/Testimonials";
 import WhyChooseUs from "@/components/WhyChooseUs";
+import Instructors from "@/components/Instructors"
+import Footer from "@/components/Footer";
 
 
 export default function Home() {
@@ -9,6 +12,9 @@ export default function Home() {
       <HeroSection/>
       <FeaturedCourses/>
       <WhyChooseUs/>
+      <Testimonials/>
+      <Instructors/>
+      <Footer/>
     </main>
   );
 }
