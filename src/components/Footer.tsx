@@ -62,7 +62,7 @@ function Footer() {
         </div>
   
         <p className="text-center text-xs pt-8">
-          © 2024 Learn Indian Languages. All rights reserved.
+          © 2025 Learn Indian Languages. All rights reserved.
         </p>
       </footer>
     )
