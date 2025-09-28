@@ -8,7 +8,7 @@
         "price": 99.99,
         "instructor": "Ravi Kumar",
         "isFeatured": true,
-        "image": "/courses/hindi.jpg"
+        "image": "/courses/Hindi.jpeg"
       },
       {
         "id": 2,
@@ -18,7 +18,7 @@
         "price": 109.99,
         "instructor": "Anwesha Chatterjee",
         "isFeatured": false,
-        "image": "/courses/bengali.jpg"
+        "image": "/courses/Bengali.jpeg"
       },
       {
         "id": 3,
@@ -28,7 +28,7 @@
         "price": 119.99,
         "instructor": "Karthik Subramanian",
         "isFeatured": true,
-        "image": "/courses/tamil.jpg"
+        "image": "/courses/Tamil.jpeg"
       },
       {
         "id": 4,
@@ -38,7 +38,7 @@
         "price": 129.99,
         "instructor": "Simran Kaur",
         "isFeatured": false,
-        "image": "/courses/punjabi.jpg"
+        "image": "/courses/Punjabi.jpeg"
       },
       {
         "id": 5,
@@ -48,7 +48,7 @@
         "price": 139.99,
         "instructor": "Ramesh Babu",
         "isFeatured": false,
-        "image": "/courses/telugu.jpg"
+        "image": "/courses/Telugu.jpeg"
       },
       {
         "id": 6,
@@ -58,7 +58,7 @@
         "price": 149.99,
         "instructor": "Priya Joshi",
         "isFeatured": true,
-        "image": "/courses/marathi.jpg"
+        "image": "/courses/Marathi.jpeg"
       },
       {
         "id": 7,
@@ -68,7 +68,7 @@
         "price": 159.99,
         "instructor": "Aamir Khan",
         "isFeatured": false,
-        "image": "/courses/urdu.jpg"
+        "image": "/courses/Urdu.jpeg"
       },
       {
         "id": 8,
@@ -78,7 +78,7 @@
         "price": 169.99,
         "instructor": "Neha Patel",
         "isFeatured": true,
-        "image": "/courses/gujarati.jpg"
+        "image": "/courses/Gujarati.jpeg"
       },
       {
         "id": 9,
@@ -88,7 +88,7 @@
         "price": 179.99,
         "instructor": "Anjali Nair",
         "isFeatured": false,
-        "image": "/courses/malayalam.jpg"
+        "image": "/courses/Malayalam.jpeg"
       },
       {
         "id": 10,
@@ -98,7 +98,7 @@
         "price": 189.99,
         "instructor": "Arvind Sharma",
         "isFeatured": true,
-        "image": "/courses/sanskrit.jpg"
+        "image": "/courses/Sanskrit.jpeg"
       }
     ]
   }
