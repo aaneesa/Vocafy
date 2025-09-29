@@ -20,7 +20,7 @@ function Navbar({ className }: { className?: string }) {
             <div className="flex flex-col space-y-4 text-sm">
                 <HoveredLink href="/courses">All Language Courses</HoveredLink>
                 {languageCourses.map((course) => (
-                <HoveredLink key={course.id} href={`/courses/${course.slug}`}>
+                <HoveredLink key={course.id} href={`/courses`}>
                     {course.title}
                 </HoveredLink>
                 ))}
